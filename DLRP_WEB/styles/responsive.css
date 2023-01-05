@@ -1,0 +1,33 @@
+@media screen and (max-width: 1300px) {
+  header a {
+    font-size: 12px; }
+  header .link-left-container a {
+    margin-left: 40px; }
+  header .link-right-container a {
+    margin-right: 40px; }
+  header img {
+    width: 80px;
+    height: 80px;
+    margin: 0px 40px 0px 40px; }
+
+  main .catalogue-top-item {
+    width: 28vw; } }
+@media screen and (max-width: 950px) {
+  header a {
+    font-size: 12px; }
+  header .link-left-container {
+    display: none; }
+  header .link-right-container {
+    display: none; }
+
+  main .button {
+    display: none; }
+  main p.responsive {
+    visibility: visible; } }
+@media screen and (max-width: 600px) {
+  main h1 {
+    font-size: 40px; }
+  main h2 {
+    font-size: 50px; } }
+
+/*# sourceMappingURL=responsive.css.map */
