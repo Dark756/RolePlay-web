@@ -206,6 +206,7 @@ iframe {
 /*==================================================================
 [ login more ]*/
 .login100-more {
+  border-radius: 100px;
   width: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -215,6 +216,7 @@ iframe {
 }
 
 .login100-more::before {
+  border-radius: 100px;
   content: "";
   display: block;
   position: absolute;
